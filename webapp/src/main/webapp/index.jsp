@@ -13,10 +13,6 @@
     <br>
 
     <label for="mobile"><b>Enter mobile hi</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
-    <br>
-
-    <label for="mobile"><b>Enter mobile hi</b></label>
     <input type="text" placeholder="Enter moible number hi" name="mobile" id="mobile" required>
     <br>
 
